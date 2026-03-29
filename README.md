@@ -42,6 +42,9 @@ FinScore is a free, 5-minute Money Health Score tool built for every Indian inve
 - No backend, no data stored — complete privacy
 - Can be embedded into ET platform with zero infrastructure cost
 
+## 📄 Impact Model
+[View Impact Model](FinScore%20–%20Impact%20Model%20%26%20Business%20Case.pdf)
+
 ## 🛠️ Tech Stack
 - React (frontend)
 - Client-side scoring logic (no backend)
