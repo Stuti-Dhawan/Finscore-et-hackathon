@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Logs and local caches
+*.log
+.cache/
+.upm/
+
+# Replit-only files
+.replit
+replit.nix
+.replit-artifact/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
