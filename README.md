@@ -4,6 +4,10 @@ FinScore is a browser-only personal finance checkup for Indian users. It collect
 
 The app also provides a visual score dashboard and up to five personalized recommendations based on the answers. All state and scoring logic run locally in the browser. There is no backend, database, authentication service, API route, or API key.
 
+## Live demo
+
+[Open FinScore](https://money-health-score--erstutidhawan.replit.app)
+
 ## Tech stack
 
 - React 19
